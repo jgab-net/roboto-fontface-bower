@@ -2,7 +2,7 @@
   "name": "roboto-fontface-bower",
   "version": "0.1.5",
   "main": [
-    "./roboto-fontface.css",
+    "./roboto-fontface.scss",
     "./fonts/Roboto-Black.eot",
     "./fonts/Roboto-Black.svg",
     "./fonts/Roboto-Black.ttf",
